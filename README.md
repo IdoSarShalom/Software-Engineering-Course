@@ -1,6 +1,8 @@
-# Smart Phone App
+# Software-Engineering-Course  
 
-Smart phone applications implemented in java using GUI
+Exercises and solutions of the course: Software-Engineering, course code: 83459, 2021
+
+Induding Smart phone applications implemented in java using GUI, as the course final project.
 
 It's a bit mess because it started from a simple excercise, and we were asked to add more and more applications and things.
 
